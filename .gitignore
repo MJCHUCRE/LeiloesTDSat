@@ -1,0 +1,17 @@
+# Ignorar pastas de build e distribuição
+/build/
+/dist/
+/lib/
+
+# Ignorar configurações específicas do NetBeans
+nbproject/private/
+
+# Ignorar arquivos temporários e de backup
+*.class
+*.log
+*.tmp
+*.bak
+
+# Ignorar arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
